@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+nltk
+opencv-python
+mediapipe
+python-multipart
+pydantic
+numpy
+joblib
+flask-cors
+    
