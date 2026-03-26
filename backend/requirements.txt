@@ -10,4 +10,6 @@ pydantic
 numpy
 joblib
 flask-cors
+groq
+python-dotenv
     
